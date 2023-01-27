@@ -2,6 +2,7 @@
 # gitexercise
 
 branch1 has been created
-branch1 has been updated
-branch1 has been updated again
+
+branch2 has been created
+branch2 has been updated 
 
